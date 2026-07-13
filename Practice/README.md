@@ -1,1 +1,1 @@
-this folder contains my projects related to data science and python
+this folder contains my practise related to data science and python
